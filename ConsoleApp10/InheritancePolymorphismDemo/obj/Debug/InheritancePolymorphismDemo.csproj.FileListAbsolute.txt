@@ -1,0 +1,7 @@
+C:\Users\acer\source\repos\ConsoleApp10\InheritancePolymorphismDemo\bin\Debug\InheritancePolymorphismDemo.exe.config
+C:\Users\acer\source\repos\ConsoleApp10\InheritancePolymorphismDemo\bin\Debug\InheritancePolymorphismDemo.exe
+C:\Users\acer\source\repos\ConsoleApp10\InheritancePolymorphismDemo\bin\Debug\InheritancePolymorphismDemo.pdb
+C:\Users\acer\source\repos\ConsoleApp10\InheritancePolymorphismDemo\obj\Debug\InheritancePolymorphismDemo.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\ConsoleApp10\InheritancePolymorphismDemo\obj\Debug\InheritancePolymorphismDemo.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\ConsoleApp10\InheritancePolymorphismDemo\obj\Debug\InheritancePolymorphismDemo.exe
+C:\Users\acer\source\repos\ConsoleApp10\InheritancePolymorphismDemo\obj\Debug\InheritancePolymorphismDemo.pdb
